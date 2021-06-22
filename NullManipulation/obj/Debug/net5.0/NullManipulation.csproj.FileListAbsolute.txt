@@ -1,0 +1,16 @@
+C:\Projects\jala\bootcamp\backend\practices\NullManipulation\bin\Debug\net5.0\NullManipulation.exe
+C:\Projects\jala\bootcamp\backend\practices\NullManipulation\bin\Debug\net5.0\NullManipulation.deps.json
+C:\Projects\jala\bootcamp\backend\practices\NullManipulation\bin\Debug\net5.0\NullManipulation.runtimeconfig.json
+C:\Projects\jala\bootcamp\backend\practices\NullManipulation\bin\Debug\net5.0\NullManipulation.runtimeconfig.dev.json
+C:\Projects\jala\bootcamp\backend\practices\NullManipulation\bin\Debug\net5.0\NullManipulation.dll
+C:\Projects\jala\bootcamp\backend\practices\NullManipulation\bin\Debug\net5.0\ref\NullManipulation.dll
+C:\Projects\jala\bootcamp\backend\practices\NullManipulation\bin\Debug\net5.0\NullManipulation.pdb
+C:\Projects\jala\bootcamp\backend\practices\NullManipulation\obj\Debug\net5.0\NullManipulation.csproj.AssemblyReference.cache
+C:\Projects\jala\bootcamp\backend\practices\NullManipulation\obj\Debug\net5.0\NullManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\jala\bootcamp\backend\practices\NullManipulation\obj\Debug\net5.0\NullManipulation.AssemblyInfoInputs.cache
+C:\Projects\jala\bootcamp\backend\practices\NullManipulation\obj\Debug\net5.0\NullManipulation.AssemblyInfo.cs
+C:\Projects\jala\bootcamp\backend\practices\NullManipulation\obj\Debug\net5.0\NullManipulation.csproj.CoreCompileInputs.cache
+C:\Projects\jala\bootcamp\backend\practices\NullManipulation\obj\Debug\net5.0\NullManipulation.dll
+C:\Projects\jala\bootcamp\backend\practices\NullManipulation\obj\Debug\net5.0\ref\NullManipulation.dll
+C:\Projects\jala\bootcamp\backend\practices\NullManipulation\obj\Debug\net5.0\NullManipulation.pdb
+C:\Projects\jala\bootcamp\backend\practices\NullManipulation\obj\Debug\net5.0\NullManipulation.genruntimeconfig.cache
