@@ -5,7 +5,7 @@ namespace ValueReferenceType
 {
     class Program
     {
-        class DetailedInteger
+        struct DetailedInteger
         {
             public int Number;
             List<string> Letters;
