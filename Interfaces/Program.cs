@@ -31,6 +31,7 @@ namespace Exercise
             ElectricFlyingCar strangeCar = new();
 
             Boat boat = new();
+
         }
     }
 
