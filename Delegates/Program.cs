@@ -13,18 +13,16 @@ namespace Delegates
             Console.WriteLine($"Result: {result}");
         }
 
-        abstract class GeneralOperation
+        class GeneralOperation
         {
             public delegate int Operation(int a, int b);
 
-            public Operation operation;
-
-            protected abstract void CreateOperation();
+            public Operation operation = new((int a, int b) => 0);
         }
 
         class Addition : GeneralOperation
         {
-            protected override void CreateOperation()
+            public Addition()
             {
                 operation = new((int a, int b) => a + b);
             }
@@ -32,9 +30,9 @@ namespace Delegates
 
         class Substraction : GeneralOperation
         {
-            protected override void CreateOperation()
+            public Substraction()
             {
-            operation = new((int a, int b) => a - b);
+                operation = new((int a, int b) => a - b);
             }
         }
 
@@ -48,7 +46,7 @@ namespace Delegates
             {
                 First = first;
                 Second = second;
-                GeneralOperation.operation = new((int a, int b) => 0);
+                GeneralOperation = new();
             }
 
             public void ApplyOperator(GeneralOperation newOperation)
